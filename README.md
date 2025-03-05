@@ -1,11 +1,7 @@
 <h1>🎰 Pashagaming – Kaliteli Bahis ve Casino Keyfi! 💰🔥</h1>
 
-<a href="https://cutt.ly/PashagamingLink" title="Pashagaming">
-  <img src="https://i.ibb.co/YjtLwQ8/cats.jpg" alt="Pashagaming" style="max-width: 100%; border: 3px solid #ff4500; border-radius: 15px; box-shadow: 0px 0px 15px rgba(255, 69, 0, 0.8);">
-</a>
-
-<a href="https://cutt.ly/PashagamingLink" title="Pashagaming Casino">
-  <img src="https://i.ibb.co/VHdrjnQ/df.jpg" alt="Pashagaming Casino" style="max-width: 100%; border: 3px solid #ff4500; border-radius: 15px; box-shadow: 0px 0px 15px rgba(255, 69, 0, 0.8);">
+<a href="https://cutt.ly/PashaLink" title="Pashagaming">
+  <img src="https://i.ibb.co/BtMhhf6/g-venligiris.jpg" alt="Pashagaming" style="max-width: 100%; border: 3px solid #ff4500; border-radius: 15px; box-shadow: 0px 0px 15px rgba(255, 69, 0, 0.8);">
 </a>
 
 <h2>🚀 Pashagaming Avantajları</h2>
